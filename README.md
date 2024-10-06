@@ -1,4 +1,4 @@
-# Portfolio
+# Damian Wong's Portfolio
 
 ## SQL Projects
 | Project Name | Description |
