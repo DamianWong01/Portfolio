@@ -9,6 +9,7 @@
 | Project Name | Description |
 |-------------|-------------|
 | [Retail Sales Analysis: Impact of External Factors](https://github.com/DamianWong01/Retail-Sales-Analysis) | Analysis of how external factors influence retail chain sales performance. Utilized pandas, scipy, and visualization libraries. Key findings include significant holiday sales increases and complex relationships between economic factors and sales. |
+| [Marketing Campaign A/B Test Analysis](https://github.com/DamianWong01/A-B-Test-Analysis) | Statistical analysis of a marketing campaign's effectiveness using A/B testing to determine the impact of paid advertising versus public service announcements (PSA). |
 | [Home vs Away Analysis for Premier League 23/24](https://github.com/DamianWong01/epl_home_away_analysis_23-24) | Analysis of Premier League team performance comparing home and away games for the 2023 season, featuring interactive and static visualizations of points per game. |
 | [Sentiment Analysis of Henry VIII's Love Letters](https://github.com/DamianWong01/sentiment-analysis-henry-viii-letters) | Natural language processing project analyzing emotional content and themes in King Henry VIII's letters to Anne Boleyn using Python and NLTK. |
 | [E-commerce Mobile App vs. Website Performance Analysis](https://github.com/DamianWong01/E-commerce-Project/tree/main) | Analysis of customer behavior data to determine investment priority between mobile app and website platforms to maximize customer spending. |
